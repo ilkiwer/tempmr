@@ -1,0 +1,86 @@
+/* 
+PALETTE
+NEW
+263238,
+37474F,
+455A64,
+546E7A,
+607D8B,
+78909C,
+90A4AE,
+B0BEC5,
+CFD8DC,
+ECEFF1
+ */
+
+ /*body {
+    background-color: #263238;
+    font-family: "Roboto", sans-serif;
+    color: #b0bec5;
+    height: 100%
+}
+
+@media screen and (max-width: 767px) {
+    .tg {
+        width: auto !important;
+    }
+    .tg col {
+        width: auto !important;
+    }
+    .tg-wrap {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+}
+*/
+.intro {
+    width: auto;
+    height: fit-content;
+}
+
+.wrapper {
+    display: table;
+    width: 100%;
+    height: fit-content;
+    padding: 0 0 0 0;
+    border: 0 0 0 0;
+    margin: 0 0 0 0;
+    /*font-size: 0;*/
+}
+
+.row {
+    display: table-row;
+    height: fit-content;
+    width: 100%;
+}
+
+.box {
+    display: table-cell;
+    word-wrap: break-word;
+    width: 10%;
+    min-height: 7%;
+    font-size: 3vw;
+    text-align: center;
+    vertical-align: middle;
+    background: #37474f;
+    border-radius: 2px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: calc(10%/12);
+    margin-right: calc(10%/12);
+    padding: 0 0 0 0;
+    border: 0 0 0 0;
+    position: relative;
+    box-shadow: 0 19px 30px rgba(0, 0, 0, 0.1), 0 15px 12px rgba(0, 0, 0, 0.1);
+}
+
+.invisible {
+    background: rgba(0, 0, 0, 0);
+    box-shadow: none;
+}
+
+
+/*.cattedra {
+    width: 28%;
+}*/
