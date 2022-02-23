@@ -1,0 +1,1 @@
+document.getElementById("interrogazioni").replace(/1/g, "red");
