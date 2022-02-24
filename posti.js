@@ -46,7 +46,7 @@ let names = [
   "Francavilla",
   "Gaburo",
   "Gatti",
-  "Manzani",
+  "ManzaTi",
   "Perantoni",
   "Perotti",
   "Pozzerle",
