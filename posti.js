@@ -32,7 +32,7 @@ function getNumWorkDays(startDate, endDate) {
 }
 
 let students = 26;
-let list = [10,17,11,3,4,22,8,14,23,15,13,12,20,6,26,21,1,19,25,5,7,9,2,18,24,16];
+let list = [10,17,11,3,4,22,8,14,23,15,13,12,20,6,26,21,1,19,25,5,7,9,2,18,16, 24];
 
 let names = [
   "Accordini",
