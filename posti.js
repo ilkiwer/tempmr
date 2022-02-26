@@ -64,7 +64,7 @@ let names = [
   "Zanotti",
 ];
 
-changeDate = new Date("2022-02-23");
+changeDate = new Date("2022-02-24");
 
 let sinceChange = getNumWorkDays(
   changeDate,
